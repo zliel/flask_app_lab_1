@@ -1,3 +1,9 @@
+"""
+Author: Zackary Liel
+Class: CST205
+Date: 7/3/2024
+Abstract: This file is the root of the Flask application.
+"""
 # hello_flask.py
 from flask import Flask, render_template
 from flask_bootstrap import Bootstrap5
